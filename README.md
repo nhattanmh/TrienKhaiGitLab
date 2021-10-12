@@ -41,6 +41,7 @@ Quá trình cài đặt sẽ diễn ra tự động.
  - Hoặc reset pwd bằng command line:
   Sudo gitlab-rake “gitlab:password:reset”
   ![image](https://user-images.githubusercontent.com/59860781/136922127-99c5c3b7-8653-4bc1-9834-e4298b156ecc.png)
+ ##### Truy cập vào GitLab bằng địa chỉ IP 
   
 
 
