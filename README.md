@@ -15,5 +15,7 @@ GitLab là một trang web dựa trên DevOps mã nguồn mở và là một ph�
   Prometheus: Sử dụng để giám sát hoạt động
 ## Hướng dẫn cài đặt GitLab trên Ubuntu
 ##### Bước 1: Update và cài đặt các thư viện cần thiết
+- sudo apt-get update
+- sudo apt-get install -y curl openssh-server ca-certificates
 ![image](https://user-images.githubusercontent.com/59860781/136916051-bd10d39b-eaa5-4375-8494-38b3a01ed61d.png)
 
