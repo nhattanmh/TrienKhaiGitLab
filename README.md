@@ -31,6 +31,6 @@ Sử dụng Postfix để gửi notification email, tuy nhiên có thể bỏ qu
  - curl https://packages.gitlab.com/install/repositories/gitlab/gitlab-ce/script.deb.sh | sudo bash
 ![image](https://user-images.githubusercontent.com/59860781/136919756-a396708e-0110-4ee8-ba58-ff6cb0081b0f.png)
  - Phiên bản thương mại Enterprise Editor (Dùng thử 14 ngày) thì thay bằng câu lệnh bên dưới
-
+x
 x
 
