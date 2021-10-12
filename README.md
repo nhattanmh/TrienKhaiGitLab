@@ -45,7 +45,7 @@ Quá trình cài đặt sẽ diễn ra tự động. Sau khi hoàn thành sẽ �
  #### Tiến hành truy cập vào GitLab bằng địa chỉ IP 
   ![image](https://user-images.githubusercontent.com/59860781/136922426-a9238d2c-01e4-49f5-a301-c8233bdc0e4a.png)
 - Sau khi đăng nhập thành công ta sẽ có giao diện quản lý như hình
-  ![image](https://user-images.githubusercontent.com/59860781/136922490-5ac59503-9005-4bb8-bf90-ef2dd07ad2bf.png)
+ ![image](https://user-images.githubusercontent.com/59860781/136922490-5ac59503-9005-4bb8-bf90-ef2dd07ad2bf.png)
 
   
 
