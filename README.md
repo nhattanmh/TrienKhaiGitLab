@@ -33,8 +33,8 @@ Sử dụng Postfix để gửi notification email, tuy nhiên có thể bỏ qu
  - Phiên bản thương mại Enterprise Editor (Bản dùng thử 14 ngày)
  - curl https://packages.gitlab.com/install/repositories/gitlab/gitlab-ee/script.deb.sh | sudo bash
  ##### Bước 4: Cài đặt GitLab
- - sudo EXTERNAL_URL="https://gitlab.vinasupport.com" apt-get install gitlab-ce
-  ![image](https://user-images.githubusercontent.com/59860781/136921368-424c8d40-99ac-4f33-8f63-cb57ceacccb2.png)
+ - sudo EXTERNAL_URL="https://gitlab.nhattanmh.com" apt-get install gitlab-ce
+   ![image](https://user-images.githubusercontent.com/59860781/136921368-424c8d40-99ac-4f33-8f63-cb57ceacccb2.png)
 Quá trình cài đặt sẽ diễn ra tự động. Sau khi hoàn thành sẽ được kết quả như hình
   ![image](https://user-images.githubusercontent.com/59860781/136937082-efea1f16-71a6-4a0f-af72-a9d405e30060.png)
  ##### Bước 5: Thiết lập mật khẩu cho tài khoản root.
