@@ -35,5 +35,13 @@ Sử dụng Postfix để gửi notification email, tuy nhiên có thể bỏ qu
  ##### Bước 4: Cài đặt GitLab
  - sudo EXTERNAL_URL="https://gitlab.vinasupport.com" apt-get install gitlab-ce
  ![image](https://user-images.githubusercontent.com/59860781/136921368-424c8d40-99ac-4f33-8f63-cb57ceacccb2.png)
+Quá trình cài đặt sẽ diễn ra tự động.
+ ##### Bước 5: Thiết lập mật khẩu cho tài khoản root.
+- Tài khoản mặc định của GitLab là root. Sau khi cài đặt xong GitLab, chúng ta truy cập đường dẫn https://<domain>.com , nó sẽ redirect chúng ta tới trang thiết lập mật khẩu cho tài khoản root.
+ - Hoặc reset pwd bằng command line:
+  Sudo gitlab-rake “gitlab:password:reset”
+  ![image](https://user-images.githubusercontent.com/59860781/136922127-99c5c3b7-8653-4bc1-9834-e4298b156ecc.png)
+  
+
 
 
