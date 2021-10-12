@@ -25,12 +25,15 @@ Sử dụng Postfix để gửi notification email, tuy nhiên có thể bỏ qu
 - Chọn Internet Site => OK
 ![image](https://user-images.githubusercontent.com/59860781/136916941-caa49be9-8033-497e-acee-c7c6c34210c2.png)
 ![image](https://user-images.githubusercontent.com/59860781/136918757-47b819b6-4fd3-4be1-b1bf-a44546f606db.png)
-##### Bước 3: Thêm Gitlab Repository.
+##### Bước 3: Thêm Gitlab Repository
  + Có 2 phiên bản Gitlab Repository
  - Phiên bản Community Editor (Miễn phí)
  - curl https://packages.gitlab.com/install/repositories/gitlab/gitlab-ce/script.deb.sh | sudo bash
 ![image](https://user-images.githubusercontent.com/59860781/136919756-a396708e-0110-4ee8-ba58-ff6cb0081b0f.png)
  - Phiên bản thương mại Enterprise Editor (Bản dùng thử 14 ngày)
- curl https://packages.gitlab.com/install/repositories/gitlab/gitlab-ee/script.deb.sh | sudo bash
- 
+ - curl https://packages.gitlab.com/install/repositories/gitlab/gitlab-ee/script.deb.sh | sudo bash
+ ##### Bước 4: Cài đặt GitLab
+ - sudo EXTERNAL_URL="https://gitlab.vinasupport.com" apt-get install gitlab-ce
+ ![image](https://user-images.githubusercontent.com/59860781/136921368-424c8d40-99ac-4f33-8f63-cb57ceacccb2.png)
+
 
