@@ -26,7 +26,11 @@ Sử dụng Postfix để gửi notification email, tuy nhiên có thể bỏ qu
 ![image](https://user-images.githubusercontent.com/59860781/136916941-caa49be9-8033-497e-acee-c7c6c34210c2.png)
 ![image](https://user-images.githubusercontent.com/59860781/136918757-47b819b6-4fd3-4be1-b1bf-a44546f606db.png)
 ##### Bước 3: Thêm Gitlab Repository.
-  - Có 2 phiên bản
+ + Có 2 phiên bản Gitlab Repository
+ - Phiên bản Community Editor (Miễn phí)
+ - curl https://packages.gitlab.com/install/repositories/gitlab/gitlab-ce/script.deb.sh | sudo bash
+![image](https://user-images.githubusercontent.com/59860781/136919756-a396708e-0110-4ee8-ba58-ff6cb0081b0f.png)
+ - Phiên bản thương mại Enterprise Editor (Dùng thử 14 ngày) thì thay bằng câu lệnh bên dưới
 
 
 
