@@ -83,7 +83,22 @@ Bước 2: Sao chép toàn bộ thư mục /etc/gitlab vào thư mục backup
 
   # 3. Restore file backup database
 Khôi phục dữ liệu sẽ thực hiện ngược lại với quá trình backup.
-  
+Bước 1: Copy file backup database vào trong thư mục backup của máy chủ Gitlab.
+- sudo cp backups/1634121124_2021_10_13_14.3.2_gitlab_backup.tar /var/opt/gitlab/backups/
+
+![image](https://user-images.githubusercontent.com/59860781/137121112-bf49906c-23c5-43e8-a3c9-86ae06dda283.png)
+Bước 2: Gán quyền owner file backup cho user git.
+- sudo chown git.git /var/opt/gitlab/backups/1634121124_2021_10_13_14.3.2_gitlab_backup.tar 
+
+![image](https://user-images.githubusercontent.com/59860781/137121442-7da6b6ee-ba6d-4019-be0f-b8ebf9c09b5a.png)
+Bước 3: Dừng các dịch vụ của Gitlab đang kết nối về database.
+
+![image](https://user-images.githubusercontent.com/59860781/137121842-460246cf-a0ff-4f61-a602-07f6014a693a.png)
+Bước 4: Chạy lệnh restore file backup với nhãn thời gian và phiên bản của file.
+- sudo gitlab-backup restore 1634121124_2021_10_13_14.3.2
+
+
+
 
 
 
