@@ -72,6 +72,7 @@ Bước 2: Sao chép toàn bộ thư mục /etc/gitlab vào thư mục backup
 - tar -cvzf backup.tar.gz ~nhattanmh
 ![image](https://user-images.githubusercontent.com/59860781/137118939-49756e63-10d9-4e35-95dc-4216ec42bce9.png)
 
+  # 3. Restore file backup database
 
   
 
