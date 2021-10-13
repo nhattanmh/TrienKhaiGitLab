@@ -51,11 +51,11 @@ Sử dụng Postfix để gửi notification email, tuy nhiên có thể bỏ qu
 - Back-up hay (sao lưu) dữ liệu là hình thức bạn copy lại toàn bộ đoạn dữ liệu trong máy tính, máy chủ, server… hay bất cứ thiết bị nào có khả năng nhớ và lưu trữ của bạn và lưu trữ nó ở một hoặc nhiều thiết bị có chức năng lưu trữ khác để làm dữ liệu dự phòng. Khi thiết bị nhớ chính của chúng ta bị mất dữ liệu trong khi hoạt động do hư hỏng, hacker, sập nguồn…. Chúng ta vẫn còn dữ liệu để restore lại, hạn chế thiệt hại và mất mát về nguồn tài nguyên dữ liệu này.
 ### Back up dữ liệu và database
 Bước 1: Tạo một folder để lưu trữ file backup
-- mkdir backup
-  ![image](https://user-images.githubusercontent.com/59860781/137115796-1bb87a26-5090-4433-93aa-7bea62a21e3f.png)
+  - mkdir backup.
+![image](https://user-images.githubusercontent.com/59860781/137115796-1bb87a26-5090-4433-93aa-7bea62a21e3f.png)
 Bước 2: Gitlab cung cấp lệnh để backup dữ liệu một cách nhanh chóng
 - gitlab-backup create
-[image](https://user-images.githubusercontent.com/59860781/137116845-d6052e6c-5307-4f04-8517-7d6087310a2d.png)
+![image](https://user-images.githubusercontent.com/59860781/137116845-d6052e6c-5307-4f04-8517-7d6087310a2d.png)
 Sau khi lệnh chạy xong, hệ thống sẽ tạo ra một file backups trong thư mục /var/opt/gitlab/backups.
 ![image](https://user-images.githubusercontent.com/59860781/137116926-b02696d9-15d1-4bc7-99f1-9288664bfe78.png)
 Bước 3: Di chuyển file backups vào thư mục backup tạm thời
