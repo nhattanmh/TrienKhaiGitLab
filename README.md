@@ -61,9 +61,11 @@ Bước 1: Tạo một folder để lưu trữ file backup
 ![image](https://user-images.githubusercontent.com/59860781/137116845-d6052e6c-5307-4f04-8517-7d6087310a2d.png)
 
 Sau khi lệnh chạy xong, hệ thống sẽ tạo ra một file backups trong thư mục /var/opt/gitlab/backups.
+
 ![image](https://user-images.githubusercontent.com/59860781/137116926-b02696d9-15d1-4bc7-99f1-9288664bfe78.png)
 Bước 3: Di chuyển file backups vào thư mục backup tạm thời
 - mv /backups ~nhattanmh/backup
+
 ![image](https://user-images.githubusercontent.com/59860781/137117234-cbe8407e-8cfe-42bf-b3b3-a175f6537e45.png)
 ### Back up file cấu hình
 Bước 1: Tạo một folder để lưu trữ file backup
