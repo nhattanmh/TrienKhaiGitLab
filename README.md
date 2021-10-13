@@ -21,6 +21,7 @@ GitLab là một trang web dựa trên DevOps mã nguồn mở và là một ph�
 ##### Bước 2: Cài đặt Postfix Mail Server
 Sử dụng Postfix để gửi notification email, tuy nhiên có thể bỏ qua bước này nếu sử dụng 1 SMTP Mail Server khác như Gmail SMTP chẳng hạn.
 - sudo apt-get install -y postfix
+
 ![image](https://user-images.githubusercontent.com/59860781/136920377-cac4a769-fa87-4660-aa36-1e1666be85cc.png)
 - Chọn Internet Site => OK
 ![image](https://user-images.githubusercontent.com/59860781/136916941-caa49be9-8033-497e-acee-c7c6c34210c2.png)
