@@ -45,7 +45,7 @@ Sử dụng Postfix để gửi notification email, tuy nhiên có thể bỏ qu
  #### Tiến hành truy cập vào GitLab bằng địa chỉ IP 
   ![image](https://user-images.githubusercontent.com/59860781/136922426-a9238d2c-01e4-49f5-a301-c8233bdc0e4a.png)
 - Sau khi đăng nhập thành công ta sẽ có giao diện quản lý như hình
- ![image](https://user-images.githubusercontent.com/59860781/136922490-5ac59503-9005-4bb8-bf90-ef2dd07ad2bf.png)
+![image](https://user-images.githubusercontent.com/59860781/136922490-5ac59503-9005-4bb8-bf90-ef2dd07ad2bf.png)
  
  # 2. Backup dữ liệu
 - Back-up hay (sao lưu) dữ liệu là hình thức bạn copy lại toàn bộ đoạn dữ liệu trong máy tính, máy chủ, server… hay bất cứ thiết bị nào có khả năng nhớ và lưu trữ của bạn và lưu trữ nó ở một hoặc nhiều thiết bị có chức năng lưu trữ khác để làm dữ liệu dự phòng. Khi thiết bị nhớ chính của chúng ta bị mất dữ liệu trong khi hoạt động do hư hỏng, hacker, sập nguồn…. Chúng ta vẫn còn dữ liệu để restore lại, hạn chế thiệt hại và mất mát về nguồn tài nguyên dữ liệu này.
