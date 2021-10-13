@@ -52,7 +52,7 @@ Sử dụng Postfix để gửi notification email, tuy nhiên có thể bỏ qu
 ### Back up dữ liệu và database
 Bước 1: Tạo một folder để lưu trữ file backup
   - mkdir backup
-  - ![image](https://user-images.githubusercontent.com/59860781/137115796-1bb87a26-5090-4433-93aa-7bea62a21e3f.png)
+  ![image](https://user-images.githubusercontent.com/59860781/137115796-1bb87a26-5090-4433-93aa-7bea62a21e3f.png)
   Bước 2: Gitlab cung cấp lệnh để backup dữ liệu một cách nhanh chóng
   - gitlab-backup create
 ![image](https://user-images.githubusercontent.com/59860781/137116845-d6052e6c-5307-4f04-8517-7d6087310a2d.png)
