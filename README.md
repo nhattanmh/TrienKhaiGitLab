@@ -64,6 +64,7 @@ Bước 3: Di chuyển file backups vào thư mục backup tạm thời
 ### Back up file cấu hình
 Bước 1: Tạo một folder để lưu trữ file backup
 - mkdir backup
+
 ![image](https://user-images.githubusercontent.com/59860781/137115796-1bb87a26-5090-4433-93aa-7bea62a21e3f.png)
 Bước 2: Sao chép toàn bộ thư mục /etc/gitlab vào thư mục backup
 - sudo cp -r /etc/gitlab/ ~nhattanmh/backup/
@@ -73,7 +74,7 @@ Bước 2: Sao chép toàn bộ thư mục /etc/gitlab vào thư mục backup
 ![image](https://user-images.githubusercontent.com/59860781/137118939-49756e63-10d9-4e35-95dc-4216ec42bce9.png)
 
   # 3. Restore file backup database
-
+Khôi phục dữ liệu sẽ thực hiện ngược lại với quá trình backup.
   
 
 
