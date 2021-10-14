@@ -20,3 +20,8 @@ Gitlab được tích hợp với nhiều tính năng đơn giản, khi sử d�
   - GitLab đang tích cực xây dựng những phiên bản tốt nhất từ ý kiến của khách hàng để đem đến cho người dùng những trải nghiệm tuyệt vời nhất.
 + **Phiên bản ổn định mới mỗi tháng**
   - GitLab phát hành phiên bản ổn định mới mỗi tháng, đầy đủ các cải tiến, tính năng và bản sửa lỗi. Điều này khiến cho GitLab phát triển rất nhanh và luôn đáp ứng yêu cầu của khách hàng theo cách cực kỳ nhanh chóng.
+
+### 4. Lý do nên sử dụng Gitlab
++ Sự tiện lợi. Thao tác mỗi khi cần lưu trữ, tải lên, tải xuống code dễ dàng hơn.
++ Kiểm soát các thay đổi trong code nhanh chóng, chính xác.
++ Dễ dàng quản lý, phân phối công việc, hoàn thành dự án lập trình chất lượng hơn.
