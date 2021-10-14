@@ -1,4 +1,4 @@
-# > Tìm hiểu Gitlab
+# Tìm hiểu Gitlab
 ### 1. Giới thiệu Gitlab
 Git là từ được viết tắt bởi cụm từ Version Control System và được phát triển bởi Linus Torvalds năm 2013, với 2 phiên bản CE miễn phí (Community Editor) và EE có trả phí (Enterprise Editor). Bên cạnh đó, Gitlab được viết bằng ngôn ngữ Ruby với giấy phép phần mềm tự do và nguồn mở MIT.
 
