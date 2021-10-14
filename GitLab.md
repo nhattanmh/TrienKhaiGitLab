@@ -14,9 +14,9 @@ Gitlab được tích hợp với nhiều tính năng đơn giản, khi sử d�
 
 ### 3. Lợi ích khi sử dụng
 + **Truy cập vào mã nguồn**
-- Có thể xem và sửa đổi source code của GitLab Community Edition và Enterprise Edition với Open core bất cứ khi nào.
-- Có thể thêm các tính năng và thực hiện các tùy chỉnh trên Server hoặc bằng cách giả lập kho lưu trữ của GitLab.
+  - Có thể xem và sửa đổi source code của GitLab Community Edition và Enterprise Edition với Open core bất cứ khi nào.
+  - Có thể thêm các tính năng và thực hiện các tùy chỉnh trên Server hoặc bằng cách giả lập kho lưu trữ của GitLab.
 + **Xây dựng với cộng đồng**
-- GitLab đang tích cực xây dựng những phiên bản tốt nhất từ ý kiến của khách hàng để đem đến cho người dùng những trải nghiệm tuyệt vời nhất.
+  - GitLab đang tích cực xây dựng những phiên bản tốt nhất từ ý kiến của khách hàng để đem đến cho người dùng những trải nghiệm tuyệt vời nhất.
 + **Phiên bản ổn định mới mỗi tháng**
-- GitLab phát hành phiên bản ổn định mới mỗi tháng, đầy đủ các cải tiến, tính năng và bản sửa lỗi. Điều này khiến cho GitLab phát triển rất nhanh và luôn đáp ứng yêu cầu của khách hàng theo cách cực kỳ nhanh chóng.
+  - GitLab phát hành phiên bản ổn định mới mỗi tháng, đầy đủ các cải tiến, tính năng và bản sửa lỗi. Điều này khiến cho GitLab phát triển rất nhanh và luôn đáp ứng yêu cầu của khách hàng theo cách cực kỳ nhanh chóng.
