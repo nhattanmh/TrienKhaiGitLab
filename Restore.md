@@ -1,5 +1,6 @@
  # 3. Restore file backup database
 Khôi phục dữ liệu sẽ thực hiện ngược lại với quá trình backup.
+
 Bước 1: Copy file backup database vào trong thư mục backup của máy chủ Gitlab.
 - sudo cp backups/1634121124_2021_10_13_14.3.2_gitlab_backup.tar /var/opt/gitlab/backups/
 
