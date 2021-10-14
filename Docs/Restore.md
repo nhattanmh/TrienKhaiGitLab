@@ -1,4 +1,4 @@
- # 3. Restore file backup database
+ # Restore file backup database
 Khôi phục dữ liệu sẽ thực hiện ngược lại với quá trình backup.
 
 Bước 1: Copy file backup database vào trong thư mục backup của máy chủ Gitlab.
