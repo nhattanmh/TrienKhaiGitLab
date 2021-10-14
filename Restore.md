@@ -42,4 +42,3 @@ Cuối cùng là thực hiện apply lại các cấu hình backup cho hệ th�
 
 ![image](https://user-images.githubusercontent.com/59860781/137124580-4119b11b-ad41-4206-9cbd-2e42e12aa169.png)
 
-![image](https://user-images.githubusercontent.com/59860781/136922490-5ac59503-9005-4bb8-bf90-ef2dd07ad2bf.png)
