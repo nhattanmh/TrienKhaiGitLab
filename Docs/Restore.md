@@ -1,4 +1,11 @@
- # Restore file backup database
+# MỤC LỤC
+&ensp;[1, Restore file backup database](#1)
+
+&ensp;[2. Restore file cấu hình](#2)
+
+&ensp;[2. Reconfigure hệ thống](#2)
+
+### <a name ="1">1. Restore file backup database</a>
 Khôi phục dữ liệu sẽ thực hiện ngược lại với quá trình backup.
 
 Bước 1: Copy file backup database vào trong thư mục backup của máy chủ Gitlab.
@@ -18,7 +25,8 @@ Bước 3: Dừng các dịch vụ của Gitlab đang kết nối về database.
 Bước 4: Chạy lệnh restore file backup với nhãn thời gian và phiên bản của file.
 - sudo gitlab-backup restore 1634121124_2021_10_13_14.3.2
 
- # Restore file cấu hình
+### <a name ="2">2. Restore file cấu hình</a>
+
 Bước 1: Chuyển thư mục /etc/gitlab hiện tại thành bản cũ.
 - sudo mv /etc/gitlab /etc/gitlab_old
 
@@ -33,7 +41,8 @@ Kiểm tra lại thư mục backup gitlab vừa copy
 
 ![image](https://user-images.githubusercontent.com/59860781/137124095-04e25490-059a-43ab-af6a-55333e4cc646.png)
 
-# Reconfigure hệ thống
+### <a name ="3">3. Reconfigure hệ thống</a>
+
 Cuối cùng là thực hiện apply lại các cấu hình backup cho hệ thống.
 - gitlab-ctl reconfigure
 - gitlab-ctl restart
