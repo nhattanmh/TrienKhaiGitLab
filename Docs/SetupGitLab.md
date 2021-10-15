@@ -1,4 +1,9 @@
-# GitLab là gì?
+# MỤC LỤC
+&ensp;[1, GitLab là gì?](#1)
+
+&ensp;[2. Hướng dẫn cài đặt GitLab trên Ubuntu](#2)
+
+# <a name ="1">1.  GitLab là gì?</a>
 GitLab là một trang web dựa trên DevOps mã nguồn mở và là một phần mềm có chức năng và nhiệm vụ quản lý phiên bản mã nguồn, cung cấp một trình quản lý Git-repository. Trình quản lý này có các tiện ích như wiki, theo dõi sự cố và tích hợp liên tục. Bên cạnh đó là khả năng triển khai các tính năng pipeline và sử dụng license mã nguồn mở được phát triển bởi GitLab Inc.
 ### Yêu cầu phần cứng tối thiểu cho 100 user
   1 core CPU
@@ -13,7 +18,8 @@ GitLab là một trang web dựa trên DevOps mã nguồn mở và là một ph�
   Redis: Chưa thông tin phiên làm việc của User và hàng đợi các Task chạy ngầm
   Sidekiq: Xử lý các job chạy ngầm và xử lý đa luồng (multithreaded process)
   Prometheus: Sử dụng để giám sát hoạt động
-## Hướng dẫn cài đặt GitLab trên Ubuntu
+  
+# <a name ="2">2. Hướng dẫn cài đặt GitLab trên Ubuntu</a>
 ##### Bước 1: Update và cài đặt các thư viện cần thiết
 - sudo apt-get update
 - sudo apt-get install -y curl openssh-server ca-certificates
