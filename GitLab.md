@@ -1,11 +1,11 @@
 # MỤC LỤC
 &ensp;[1, Giới thiệu Gitlab](#1)
 
-&ensp;[2. TĐặc điểm nổi bật](#2) 
+&ensp;[2. Đặc điểm nổi bật](#2) 
 
-&ensp;[3. TĐặc điểm nổi bật](#3) 
+&ensp;[3. Lợi ích khi sử dụng](#3) 
 
-&ensp;[4. TĐặc điểm nổi bật](#4) 
+&ensp;[4. Lý do nên sử dụng Gitlab](#4) 
 
 # Tìm hiểu Gitlab
 ###  <a name ="1">1. Giới thiệu Gitlab</a>
